@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 @article{uu_quest,
   abbr={ICML-UDL 2020},
   title={QUEST for MEDISYN: Quasi-norm based Uncertainty ESTimation for MEDical Image SYNthesis},
-  author={Suyash, Patel* and Viswanath P., Sudarshan* and Suyash, Awate},
+  author={Rakesh, Patel* and Viswanath P., Sudarshan* and Rakesh, Awate},
   abstract={Uncertainty quantification in medical imaging is
   critical for clinical translation of deep learning-
   based methods. Modality propagation within the
